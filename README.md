@@ -7,10 +7,10 @@ La informacion presentada corresponde a las estructuras de datos correspondiente
 Ingenieria de sistemas computacionales UPB 2022
 # Contenido
 
-- [Trie](https://github.com/iandeimpaler/Algoritmica2I/edit/main/README.md#trie)
-- [Union Find](https://github.com/iandeimpaler/Algoritmica2I/edit/main/README.md#union-find)
-- [Segment Tree](https://github.com/iandeimpaler/Algoritmica2I/edit/main/README.md#segment-tree)
-- [Bit](https://github.com/iandeimpaler/Algoritmica2I/edit/main/README.md#bit)
+- [Trie](https://github.com/iandeimpaler/Algoritmica2I#trie)
+- [Union Find](https://github.com/iandeimpaler/Algoritmica2I#union-find)
+- [Segment Tree](https://github.com/iandeimpaler/Algoritmica2I#segment-tree)
+- [Bit](https://github.com/iandeimpaler/Algoritmica2I#bit)
 
 ## Trie 
 ##### Definicion
