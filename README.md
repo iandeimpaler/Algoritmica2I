@@ -1,12 +1,16 @@
 # Algoritmica2I
+La informacion presentada corresponde a las estructuras de datos correspondientes.
 # Ian Marcus Terceros Villegas
 # Contenido
 
 
 ## Trie 
+##### Definicion
 Un trie de sufijos es un trie construido sobre el conjunto de todos los sufijos de T. Cada rama está rotulada por un símbolo de Σ y cada hoja representa un sufijo de T. El conjunto de sufijos se obtiene recorriendo todos los caminos posibles desde la raíz hasta una hoja y concatenando los rótulos de las ramas que forman cada uno de esos caminos. En cada nodo hoja se mantiene el ındice del sufijo que esa hoja representa
 
 ![image](https://user-images.githubusercontent.com/60924631/193960023-76756ebf-d6be-40a7-96b2-00a79f510f49.png)
+
+-[Codigo]() 
 
 
 ## Union Find
@@ -27,6 +31,8 @@ Es una estructura de datos muy versátil que sirve para responder varias consult
 Estructura BIT es una estructura de datos que proporciona métodos eficientes para el cálculo y la manipulación de las cantidades de prefijos de un array de valores.
 
 ![image](https://user-images.githubusercontent.com/60924631/193961237-c943f79d-cd7d-45f3-8428-99969ce0dc89.png)
+
+- [ejercicios](https://github.com/iandeimpaler/Algoritmica2I/commit/219778942ac948f73eaec3981a25417635707c41)
 
 
 
