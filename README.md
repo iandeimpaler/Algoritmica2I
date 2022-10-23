@@ -2,6 +2,8 @@
 
 La informacion presentada corresponde a las estructuras de datos correspondientes.
 
+[Capitulo 1](https://github.com/iandeimpaler/Algoritmica2I)
+
 # Ian Marcus Terceros Villegas
 
 Ingenieria de sistemas computacionales UPB 2022
