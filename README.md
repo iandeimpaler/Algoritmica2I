@@ -4,6 +4,8 @@ La informacion presentada corresponde a las estructuras de datos correspondiente
 
 [Capitulo 1](https://github.com/iandeimpaler/Algoritmica2I)
 
+[Capitulo 2](https://github.com/iandeimpaler/Algoritmica2I#backtracking)
+
 # Ian Marcus Terceros Villegas
 
 Ingenieria de sistemas computacionales UPB 2022
