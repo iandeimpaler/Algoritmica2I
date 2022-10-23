@@ -8,3 +8,6 @@ Para entender cómo funciona se hace necesario resolver el problema de encontrar
 
 La característica más importante del algoritmo, es la optimización tanto en tiempo como en memoria. Uno de los problemas más clásicos que se resuelven con la Búsqueda Binaria, es encontrar un elemento en un listado ordenado, con una complejidad computacional logarítmica O(logN)O(logN). Es importante denotar que el arreglo debe estar ordenado, ya que es imprescindible que el espacio de búsqueda donde se aplique el algoritmo sea monótono (creciente o decreciente).
 
+![image](https://user-images.githubusercontent.com/60924631/197421049-8f89eff6-0f78-4876-9152-d5396b3328dd.png)
+
+[Codigo]()
