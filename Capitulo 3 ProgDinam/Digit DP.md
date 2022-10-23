@@ -9,4 +9,7 @@ Entonces, si decimos que G(x) indica el número de tales enteros entre 1 y x (in
 
 hay un total de estados idx*sum*tight y estamos realizando de 0 a 9 iteraciones para visitar cada estado. Por lo tanto, la complejidad del tiempo será O(10*idx*sum*tight) . Aquí, observamos que tight = 2 e idx pueden tener un máximo de 18 para un entero sin signo de 64 bits y, además, la suma será un máximo de 9*18 ~ 200. Por lo tanto, en general tenemos 10*18*200*2 ~ 10^5 iteraciones que se puede ejecutar fácilmente en 0,01 segundos.
 
-[Codigo]()
+![image](https://user-images.githubusercontent.com/60924631/197422820-078d76fa-cb53-4bc8-9661-58d9bb0d76ee.png)
+
+
+[Codigo](https://github.com/iandeimpaler/Algoritmica2I/blob/main/Codigo%20Ejemplo/Digit%20DP.cpp)
