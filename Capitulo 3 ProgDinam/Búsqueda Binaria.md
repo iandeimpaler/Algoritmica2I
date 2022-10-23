@@ -10,4 +10,4 @@ La característica más importante del algoritmo, es la optimización tanto en t
 
 ![image](https://user-images.githubusercontent.com/60924631/197421049-8f89eff6-0f78-4876-9152-d5396b3328dd.png)
 
-[Codigo]()
+[Codigo](https://github.com/iandeimpaler/Algoritmica2I/blob/main/Codigo%20Ejemplo/B%C3%BAsqueda%20%20binaria.cpp)
