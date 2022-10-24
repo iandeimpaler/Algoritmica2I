@@ -5,6 +5,7 @@
 ## Descripción del Problema
 
 Al momento de analizar un algoritmo revisamos el conjunto de operaciones primitivas de alto nivel que son independientes del lenguaje de programación que se utilice, estas pueden ser identificadas en el pseudocódigo del mismo.
+
 ![image](https://user-images.githubusercontent.com/60924631/197426135-92b08435-bba6-4ebf-a1c0-71977e5f2190.png)
 
 
