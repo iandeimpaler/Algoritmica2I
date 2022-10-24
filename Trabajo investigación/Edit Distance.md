@@ -16,4 +16,6 @@ La forma directa y recursiva de evaluar esta recurrencia requiere un tiempo expo
 
 Este algoritmo tiene una complejidad temporal de Θ( m n ) donde m y n son las longitudes de las cadenas. Cuando se construye la tabla de programación dinámica completa, su complejidad espacial también es Θ( m n ) ; esto se puede mejorar a Θ(min( m , n )) al observar que en cualquier instante, el algoritmo solo requiere dos filas (o dos columnas) en la memoria. Sin embargo, esta optimización hace que sea imposible leer la serie mínima de operaciones de edición. [3] El algoritmo de Hirschberg ofrece una solución de espacio lineal a este problema.
 
+[Codigo](https://github.com/iandeimpaler/Algoritmica2I/blob/main/Codigo%20Ejemplo/Edit%20Distance.cpp)
+
 
