@@ -10,3 +10,6 @@ En otras palabras, el algoritmo encuentra un subconjunto de aristas que forman u
 
 Usando una estructura de datos de pila binaria simple , ahora se puede mostrar que el algoritmo de Prim se ejecuta en el tiempo O (| E | log | V |) donde | E | es el número de aristas y | V | es el número de vértices. Utilizando un montón de Fibonacci más sofisticado , esto se puede reducir a O (| E | + | V | log | V |), que es asintóticamente más rápido cuando el gráfico es lo suficientemente denso que | E | es ω (| V |), y el tiempo lineal cuando | E | es al menos | V | log | V |. Para gráficos de densidad aún mayor (que tienen al menos | V | c bordes para algunos c  > 1),
 
+![image](https://user-images.githubusercontent.com/60924631/197424889-7d2f54d3-819b-41e1-8250-4c728b9e6d92.png)
+
+[Codigo](https://github.com/iandeimpaler/Algoritmica2I/tree/main/Codigo%20Ejemplo/PRIM)
