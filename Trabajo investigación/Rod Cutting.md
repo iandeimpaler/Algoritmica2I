@@ -10,3 +10,11 @@ Al final, deberías ser capaz de responder a esto.pregunta profunda: Si hay 2^(N
 
 
 Cada vez que vemos la palabra clave " mínimo ", " máximo ", estos problemas se pueden clasificar en problemas de optimización, debido a su naturaleza de encontrar un valor óptimo para realizar una tarea. Algunos ejemplos de este tipo de problemas incluyen el problema de la mochila, la subsecuencia común más larga, etc. Hay muchas formas de resolver este tipo de problemas, sin embargo, la programación dinámica funciona mejor.
+
+![image](https://user-images.githubusercontent.com/60924631/197427010-685c241b-5971-4401-b65b-7fb299e5e717.png)
+
+###### Complejidad
+
+![image](https://user-images.githubusercontent.com/60924631/197427074-a5f92170-0fe1-4245-bd43-4420ec24f814.png)
+
+[Codigo](https://github.com/iandeimpaler/Algoritmica2I/blob/main/Codigo%20Ejemplo/Rod%20Cutting.cpp)
