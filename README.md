@@ -10,6 +10,8 @@ La informacion presentada corresponde a las estructuras de datos correspondiente
 
 [Capitulo 4](https://github.com/iandeimpaler/Algoritmica2I/tree/main/Capitulo%20%204%20Teoria%20de%20grafos)
 
+[Algoritmos Investigacion](https://github.com/iandeimpaler/Algoritmica2I/tree/main/Trabajo%20investigaci%C3%B3n)
+
 # Ian Marcus Terceros Villegas
 
 Ingenieria de sistemas computacionales UPB 2022
