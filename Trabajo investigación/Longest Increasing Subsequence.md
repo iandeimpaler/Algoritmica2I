@@ -2,7 +2,7 @@
 
 ## Descripcion del problema
   
-consiste en encontrar una subsecuencia de una secuencia dada donde los elementos de la subsecuencia están ordenados, de menor a mayor, y la subsecuencia sea tan larga como sea posible. Esta subsecuencia no es necesariamente continua, o única.
+Consiste en encontrar una subsecuencia de una secuencia dada donde los elementos de la subsecuencia están ordenados, de menor a mayor, y la subsecuencia sea tan larga como sea posible. Esta subsecuencia no es necesariamente continua, o única.
 
 ###### Complejidad y teoria
 
@@ -18,3 +18,7 @@ Note que, en cualquier punto del algoritmo, la secuencia
 
 X[M[1]], X[M[2]], ..., X[M[L]]
 es nodecreciente. Para, si existe una subsecuencia creciente de longitud i terminando en X[M[i]], entonces existe también una subsecuencia de longitud i-1 terminando en un valor más pequeño: concretamente el que termina en X[P[M [i]]]. Así, es posible una búsqueda binaria en esta secuencia en tiempo logarítmico.
+
+![image](https://user-images.githubusercontent.com/60924631/197428210-ec9eb7fc-935a-4da2-a0b9-cef269e01308.png)
+
+[Codigo](https://github.com/iandeimpaler/Algoritmica2I/blob/main/Codigo%20Ejemplo/Longest%20Increasing%20Subsequence.cpp)
